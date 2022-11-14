@@ -7,7 +7,12 @@ This repo contains zero copyrighted-by-Rocorp code. It's like rAthena, but for t
 
 http://nobelium.xyz
 
-How to compile:
+
+
+
+
+
+**How to compile:**
 
 Requirements:
 1. Windows (and linux i think)
