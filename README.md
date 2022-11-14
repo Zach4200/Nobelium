@@ -7,10 +7,7 @@ This repo contains zero copyrighted-by-Rocorp code. It's like rAthena, but for t
 
 http://nobelium.xyz
 
-
-
-
-
+-------------------
 
 **How to compile:**
 
