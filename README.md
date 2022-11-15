@@ -12,7 +12,7 @@ http://nobelium.xyz
 **How to compile:**
 
 Requirements:
-1. Windows (and linux i think)
+1. Windows
 2. php 7 for windows (https://windows.php.net/download#php-7.4)
 3. Composer (https://getcomposer.org/download/)
 4. A MySql server (You can use the XAMPP one)
